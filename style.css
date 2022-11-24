@@ -1,0 +1,60 @@
+
+.NHname{
+    margin-top: 116px;
+    text-align: center;
+}
+.NHname h1{
+    font-weight: 500;
+    font-size: 32px;
+    color: #1F2E35;
+}
+.NHteam{
+    display: flex;
+}
+.NAcent{
+  width: 80%;
+}
+.NHpro{
+    margin-left: 130px;
+}
+.NHpro h1{
+    
+    font-weight: 500;
+    font-size: 32px;
+    text-align: center;
+}
+.NHpro img{
+    margin-top: 50px;
+    
+   
+}
+.NHpro h2{
+    margin-top: 16px;
+    color: #EE4248;
+    font-size: 28px;
+    font-weight: 500;
+}
+.NHpro p{
+    margin-top: 15px;
+    width: 319px;
+    font-size: 18px;
+    color: #30444E;
+    line-height: 150%;
+}
+.NHbut{
+    margin-top: 15px;
+}
+.NHbut button{
+    padding: 8px 16px;
+    background-color: #EE4248;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+.NHbut button:hover{
+    background-color: grey;
+    cursor: pointer;
+    transition: 0.7s ease;
+    color: aqua;
+   border: 5px;
+}
